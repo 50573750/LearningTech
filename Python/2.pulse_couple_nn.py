@@ -11,4 +11,9 @@ mat = im.getdata();
 im.show();
 
 class pulse_couple_nn:
+	dim_x = 0;
+	dim_y = 0;
+	feed = [];
+	couple = [];
+	
 	
